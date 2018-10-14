@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://diveintopython3.netlify.com/</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/about</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/table-of-contents</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/whats-new</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/installing-python</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/your-first-python-program</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/native-datatypes</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/comprehensions</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/strings</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/regular-expressions</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/generators</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/iterators</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/advanced-iterators</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/unit-testing</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/refactoring</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/files</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/xml</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/serializing</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/http-web-services</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/case-study-porting-chardet-to-python-3</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/packaging</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/porting-code-to-python-3-with-2to3</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/special-method-names</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/where-to-go-from-here</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/troubleshooting</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/colophon</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/examples/plural4-rules.txt</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/examples/favorite-people.txt</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://diveintopython3.netlify.com/blank</loc>
+  <lastmod>2018-10-14T01:02:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
